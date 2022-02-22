@@ -1,11 +1,6 @@
 # 2048
 
 ## Getting Started
-
-Watch our replay here:
-
-[![Loom - Loom Camera](https://replayable-api-production.herokuapp.com/replay/62144a55bbb60b0016e3086d/gif?shareKey=ylbgvibeyuhyxVLcS6EnA)](https://replayable.netlify.app/replay/62144a55bbb60b0016e3086d/?share=ylbgvibeyuhyxVLcS6EnA)
-  Watch [Getting Started](https://replayable.netlify.app/replay/62144a55bbb60b0016e3086d/?share=ylbgvibeyuhyxVLcS6EnA) on Replayable
   
 ## Docs
 
