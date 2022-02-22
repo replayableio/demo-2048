@@ -1,6 +1,10 @@
 # 2048
 
 ## Getting Started
+
+[![2048 Setup](https://replayable-api-production.herokuapp.com/replay/62144c6abbb60b0016e3086e/gif?shareKey=obmgQcTUFuULEPDYAVC50w)](https://replayable.netlify.app/replay/62144c6abbb60b0016e3086e/?share=obmgQcTUFuULEPDYAVC50w)
+
+Watch [2048 Setup](https://replayable.netlify.app/replay/62144c6abbb60b0016e3086e/?share=obmgQcTUFuULEPDYAVC50w) on Replayable
   
 ## Docs
 
