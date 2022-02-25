@@ -15,8 +15,43 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
+  <style>
+    #error {
+      background-color: red;
+      text-align: center;
+      color: white;
+      display: none;
+      width: 400px;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      margin-left: -230px;
+      border-radius: 20px;
+      margin-top: -50px;
+      padding: 30px;
+      z-index: 101;
+      font-size: 40px;
+    }
+    #error-back {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      right: 0px;
+      bottom: 0px;
+      background-color: red;
+      opacity: .1;
+      z-index: 100;
+      display: none;
+    }
+  </style>
 </head>
 <body>
+
+  <div id="error-back">
+  </div>
+  <div id="error">
+    ERROR!
+  </div>
   <div class="container">
     <div class="heading">
       <h1 class="title">2048</h1>
@@ -95,5 +130,7 @@
   <script src="js/local_storage_manager.js"></script>
   <script src="js/game_manager.js"></script>
   <script src="js/application.js"></script>
+  <script src="js/error-creator.js"></script>
+
 </body>
 </html>
